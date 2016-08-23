@@ -1,0 +1,15 @@
+{
+  "name": "pd-sticky-sidebar-scroll",
+  "version": "1.0.0",
+  "description": "Sticky-Sidebar-Scroll",
+  "author": "Nageshwar Tiwari",
+  "dependencies": {
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
